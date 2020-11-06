@@ -170,8 +170,8 @@
     </div>
     <div class="row">
         <div class="col-sm">
-            <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2020-11-06 15:05:40 UTC</span> | Last batch: <span class="timestamp">2020-11-06 14:57:26 UTC</span></p>
-            <div id="template-hash" style="display: none;">046f6757d05241330f716c3aa0cc019e91274541dc298e358e0f627418805906</div>
+            <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2020-11-06 15:10:10 UTC</span> | Last batch: <span class="timestamp">2020-11-06 15:09:01 UTC</span></p>
+            <div id="template-hash" style="display: none;">95076d0ced8419c45216ea3b35e3947bde6b5239f94802e6ceb7b44c0f3b9d73</div>
         </div>
         <div class="col-sm">
             <p class="float-right">
@@ -3242,7 +3242,7 @@
                     <span class="statename">Pennsylvania (EV: 20)</span>
                 </span>
                 <br>
-                Total Votes: Biden leads with 3,297,484 votes, Trump trails with 3,290,747 votes.
+                Total Votes: Biden leads with 3,297,591 votes, Trump trails with 3,290,774 votes.
             </td>
         </tr>
         <tr>
@@ -3256,6 +3256,26 @@
             <th class="has-tip" data-toggle="tooltip" title="What percentage of the remaining votes does the trailing candidate need to flip the lead. 'Flip' happens at 50%, not at 0%.">Hurdle</th>
         </tr>
         </thead>
+    
+
+        <tr>
+            <td id='pennsylvania-2020-11-06T15:09:01.101000' class="timestamp">2020-11-06 15:09:01 UTC</td>
+            <td class="Biden">Biden</td>
+            <td>6,817</td>
+            <td>141,652</td>
+            <td>    136</td>
+    
+            <td>
+                Biden 79.4% /
+                20.6% Trump
+            </td>
+        
+            <td>
+                Trump is averaging 14.6%
+            </td>
+        
+            <td>Trump needs 51.77% [0.031%]</td>
+        </tr>
     
 
         <tr>
@@ -5994,8 +6014,8 @@
             });
             const body = await response.json();
             for (var i = 0; i < body.length; i++) {
-                if (body[i]['commit']['author']['email'] === 'actions@users.noreply.github.com' &&
-                    body[i]['commit']['message'] === 'Regenerate battleground-state-changes.txt/html') {
+                if (body[i]['commit']['author']['email'] === 'hubot@users.noreply.github.com' &&
+                    body[i]['commit']['message'].includes('Regenerate')) {
                     return body[i];
                 }
             }
