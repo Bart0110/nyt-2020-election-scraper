@@ -4,7 +4,7 @@ Scrapes the NYT Votes Remaining Page JSON and commits it back to this repo. The 
 ## Outputted files
 
 - <https://bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html>
-- <https://github.com/bart0110/nyt-2020-election-scraper/blob/master/battleground-state-changes.txt>
+- <https://bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.txt>
 - <https://bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.csv>
 
 
