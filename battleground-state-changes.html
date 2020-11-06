@@ -169,8 +169,8 @@
         This website is <a href="https://github.com/Bart0110/nyt-2020-election-scraper">open source</a> and was written by <a href="https://github.com/Bart0110/nyt-2020-election-scraper/graphs/contributors">these people</a>.
     </p>
 
-    <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2020-11-06 13:49:23 UTC</span> | Last batch: <span class="timestamp">2020-11-06 13:09:36 UTC</span></p>
-    <div id="template-hash" style="display: none;">a31cf982923d7f6da2c4cfa9d14e5f14dfbaa92bcccd2b10d21c4f35d73d17ec</div>
+    <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2020-11-06 13:51:24 UTC</span> | Last batch: <span class="timestamp">2020-11-06 13:50:29 UTC</span></p>
+    <div id="template-hash" style="display: none;">2b1cde581405e0884cb7076a6d6a4de5287f724b045ff5b1b329afa79d42d35b</div>
 
     <p class="float-right">
       <button type='button' id='live_update_button' class='btn btn-secondary'>Enable Live Updates</button>
@@ -3197,7 +3197,7 @@
                     <span class="statename">Pennsylvania (EV: 20)</span>
                 </span>
                 <br>
-                Total Votes: Trump leads with 3,285,957 votes, Biden trails with 3,267,908 votes.
+                Total Votes: Biden leads with 3,295,304 votes, Trump trails with 3,289,717 votes.
             </td>
         </tr>
         <tr>
@@ -3211,6 +3211,26 @@
             <th class="has-tip" data-toggle="tooltip" title="What percentage of the remaining votes does the trailing candidate need to flip the lead. 'Flip' happens at 50%, not at 0%.">Hurdle</th>
         </tr>
         </thead>
+    
+
+        <tr>
+            <td id='pennsylvania-2020-11-06T13:50:29.239000' class="timestamp">2020-11-06 13:50:29 UTC</td>
+            <td class="Biden">Biden</td>
+            <td>5,587</td>
+            <td>145,043</td>
+            <td> 31,412</td>
+    
+            <td>
+                Biden 87.6% /
+                12.4% Trump
+            </td>
+        
+            <td>
+                Trump is averaging 12.4%
+            </td>
+        
+            <td>Trump needs 51.29% [-3.187%]</td>
+        </tr>
     
 
         <tr>
@@ -5907,8 +5927,8 @@
             });
             const body = await response.json();
             for (var i = 0; i < body.length; i++) {
-                if (body[i]['commit']['author']['email'] === 'actions@users.noreply.github.com' &&
-                    body[i]['commit']['message'] === 'Regenerate battleground-state-changes.txt/html') {
+                if (body[i]['commit']['author']['email'] === 'hubot@users.noreply.github.com' &&
+                    body[i]['commit']['message'].includes('Regenerate')) {
                     return body[i];
                 }
             }
