@@ -102,19 +102,27 @@
     </style>
     <title>Election 2020 Results</title>
 
-    <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"
-            integrity="sha384-cuApTuVdn64P5ZOzyf+qTgNxGwhvW/ZmdAbNMcl7Q3TkMKJ7/bERQ1cFDmZy7QvZ"
+    <script src="https://unpkg.com/dayjs@1.9.5/dayjs.min.js"
+            integrity="sha384-I8UysxWXKTbAFvVRecMrWcGRGR4RDZ7mOuoWjMA84MWM0OQ+4IriYjgc2+hHzEo8"
             crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/dayjs@1.8.21/plugin/utc.js"
-            integrity="sha384-r1JLNIu5SkAfQejSOJPjndnEZkxex5ChJOTaiQeN91L012sA1pyw0A/543Xq97wb"
+    <script src="https://unpkg.com/dayjs@1.9.5/plugin/utc.js"
+            integrity="sha384-PcsSBVvWDlTmn0uPlrBbd/cUxDra/qov78qWgB2Qh6TwCiXAyuJQerEmS4PoVaRQ"
             crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/dayjs@1.8.21/plugin/relativeTime.js"
-            integrity="sha384-ojZWhTxW4vjtUz9IjuxEgcPAQQkFj7jlcOnGFp8IyTUTQpFisDT5u8zFh2d0GrSM"
+    <script src="https://unpkg.com/dayjs@1.9.5/plugin/relativeTime.js"
+            integrity="sha384-Dy9nN0yYkuj/yhJJITfTyN7H84joqwvGkDsyXr+JavETPnhOzTe48kfPQEI1ee0Q"
+            crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/dayjs@1.9.5/plugin/advancedFormat.js"
+            integrity="sha384-y6wn9TDoovj2ZC4/cCf+qm4Kxiha/hhqfOb/L5RThIKLYDrhcLLfTSPyyHLMM9kF"
+            crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/dayjs@1.9.5/plugin/timezone.js"
+            integrity="sha384-ABtdoJNGKT1efF9sGomlK3/sBQIhkJb0H32JGT5/7DP8H5kKBMS5mwMLu0SExhQH"
             crossorigin="anonymous"></script>
 
     <script type="text/javascript">
         dayjs.extend(dayjs_plugin_relativeTime)
         dayjs.extend(dayjs_plugin_utc)
+        dayjs.extend(dayjs_plugin_advancedFormat)
+        dayjs.extend(dayjs_plugin_timezone)
 
         const prettyTime = timestamp => dayjs.utc(timestamp.replace(" UTC", ""), 'YYYY-MM-DD HH:MM:SS').fromNow()
 
@@ -124,7 +132,7 @@
                 if (node.hasAttribute('data-timestamp')) {
                     timestamp = node.getAttribute('data-timestamp');
                 } else {
-                    timestamp = node.innerHTML;
+                    timestamp = dayjs.utc(node.innerHTML.replace(" UTC", ""), 'YYYY-MM-DDTHH:MM:SS').local().format('DD MMM YYYY h:mm:ss A z');
                     node.setAttribute('data-timestamp', timestamp);
                 }
                 node.innerHTML = `<abbr class='pretty-timestamp' title='${timestamp}'>${prettyTime(timestamp)}</abbr>`;
@@ -171,8 +179,8 @@
     </div>
     <div class="row">
         <div class="col-sm">
-            <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2020-11-06 16:46:11 UTC</span> | Last batch: <span class="timestamp">2020-11-06 16:45:00 UTC</span></p>
-            <div id="template-hash" style="display: none;">de5072bb9e511941e0b76181a8312b0f6cf3f248261b1a2d6505c62cd7456f87</div>
+            <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2020-11-06 16:51:03 UTC</span> | Last batch: <span class="timestamp">2020-11-06 16:49:49 UTC</span></p>
+            <div id="template-hash" style="display: none;">b14d7893ca11f3ba1620379ae1f3f226cf0b3b9ab04110cce71f3120f3756aa0</div>
         </div>
         <div class="col-sm">
             <p class="float-right">
@@ -879,7 +887,7 @@
                     <span class="statename">Georgia (EV: 16)</span>
                 </span>
                 <br>
-                Total Votes: Biden leads with 2,450,152 votes, Trump trails with 2,448,567 votes.
+                Total Votes: Biden leads with 2,450,154 votes, Trump trails with 2,448,570 votes.
             </td>
         </tr>
         <tr>
@@ -893,6 +901,26 @@
             <th class="has-tip" data-toggle="tooltip" title="What percentage of the remaining votes does the trailing candidate need to flip the lead. 'Flip' happens at 50%, not at 0%. Note that third party candidates are not included in the block breakdown! This is intentional.">Hurdle</th>
         </tr>
         </thead>
+    
+
+        <tr id='georgia-2020-11-06T16:49:49.484000'>
+            <td class="timestamp">2020-11-06 16:49:49 UTC</td>
+            <td class="Biden">Biden</td>
+            <td>1,584</td>
+            <td>4,602</td>
+            <td>      5</td>
+    
+            <td>
+                Biden 40.0% /
+                60.0% Trump
+            </td>
+        
+            <td>
+                Trump is averaging 31.0%
+            </td>
+        
+            <td>Trump needs 66.58% [0.008%]</td>
+        </tr>
     
 
         <tr id='georgia-2020-11-06T16:45:00.917000'>
@@ -3065,7 +3093,7 @@
                     <span class="statename">Nevada (EV: 6)</span>
                 </span>
                 <br>
-                Total Votes: Biden leads with 624,246 votes, Trump trails with 602,170 votes.
+                Total Votes: Biden leads with 624,435 votes, Trump trails with 602,226 votes.
             </td>
         </tr>
         <tr>
@@ -3079,6 +3107,26 @@
             <th class="has-tip" data-toggle="tooltip" title="What percentage of the remaining votes does the trailing candidate need to flip the lead. 'Flip' happens at 50%, not at 0%. Note that third party candidates are not included in the block breakdown! This is intentional.">Hurdle</th>
         </tr>
         </thead>
+    
+
+        <tr id='nevada-2020-11-06T16:49:49.484000'>
+            <td class="timestamp">2020-11-06 16:49:49 UTC</td>
+            <td class="Biden">Biden</td>
+            <td>22,209</td>
+            <td>116,184</td>
+            <td>    251</td>
+    
+            <td>
+                Biden 76.5% /
+                23.5% Trump
+            </td>
+        
+            <td>
+                Trump is averaging 32.4%
+            </td>
+        
+            <td>Trump needs 58.51% [0.078%]</td>
+        </tr>
     
 
         <tr id='nevada-2020-11-06T16:36:06.617000'>
