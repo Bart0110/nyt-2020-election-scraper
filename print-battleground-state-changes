@@ -508,7 +508,7 @@ def rss_output(path, summarized):
             <rss version="2.0">
              <channel>
               <title>NYT 2020 Election Scraper RSS Feed</title>
-              <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
+              <link>https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
               <description>Latest results from battleground states.</description>
               <lastBuildDate>{email.utils.formatdate(batch_time.timestamp())}</lastBuildDate>
             ''').strip(), file=rssfile)
