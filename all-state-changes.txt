@@ -1,5 +1,5 @@
 --------------------------------------------  ------------------------------------------------------------------------------------
-Last updated:                                 2020-11-10 19:14 UTC
+Last updated:                                 2020-11-10 19:21 UTC
 Latest batch received: (Minnesota, New York)  2020-11-10 18:48 UTC
 Prettier web version:                         https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 --------------------------------------------  ------------------------------------------------------------------------------------
@@ -372,7 +372,7 @@ Florida (EV: 29) Total Votes: (Trump: 5,667,474, Biden: 5,294,767)
 
 Georgia (EV: 16) Total Votes: (Biden: 2,469,707, Trump: 2,457,140)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  ---------------------  ----------------
-2020-11-10 18:48  ***  Biden up 12,567   Unknown               Δ:     422 (Biden +32.5%)  99.55% precincts  Unknown                & trends  29.35%
+2020-11-10 18:48  ---  Biden up 12,567   Unknown               Δ:     422 (Biden +32.5%)  99.55% precincts  Unknown                & trends  29.35%
 2020-11-10 17:09  ---  Biden up 12,293   Unknown               Δ:       1 (Biden +50.0%)  99.55% precincts  Unknown                & trends  29.27%
 2020-11-10 15:54  ---  Biden up 12,292   Unknown               Δ:       9 (Biden + 5.6%)  99.55% precincts  Unknown                & trends  29.28%
 2020-11-10 14:53  ---  Biden up 12,291   Left (est.): 9        Δ:     226 (Trump +29.6%)  99.55% precincts  Trump needs 69199.08%  & trends  29.27%
