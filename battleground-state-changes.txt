@@ -1,8 +1,8 @@
-----------------------  ------------------------------------------------------------------------------------
-Last updated:           2020-11-11 23:06 UTC
-Latest batch received:  2020-11-11 22:55 UTC
-Prettier web version:   https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
-----------------------  ------------------------------------------------------------------------------------
+----------------------------------------------  ------------------------------------------------------------------------------------
+Last updated:                                   2020-11-11 23:17 UTC
+Latest batch received: (Arizona, Pennsylvania)  2020-11-11 23:15 UTC
+Prettier web version:                           https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+----------------------------------------------  ------------------------------------------------------------------------------------
 
 Alaska (EV: 3) Total Votes: (Trump: 148,624, Biden: 102,080)
 ----------------  ---  ---------------  --------------------  -------------------------  -----------------  ------------------  ----------------
@@ -15,15 +15,16 @@ Alaska (EV: 3) Total Votes: (Trump: 148,624, Biden: 102,080)
 2020-11-04 13:28  ---  Trump up 35,241  Left (est.): 233,531  Δ:       0 (n/a)           45.58% precincts   Biden needs 57.85%  & trends  n/a
 ----------------  ---  ---------------  --------------------  -------------------------  -----------------  ------------------  ----------------
 
-Arizona (EV: 11) Total Votes: (Biden: 1,655,192, Trump: 1,642,379)
+Arizona (EV: 11) Total Votes: (Biden: 1,657,621, Trump: 1,644,793)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  ------------------  ----------------
+2020-11-11 23:15  ***  Biden up 12,828   Left (est.): 35,599   Δ:   4,843 (Biden + 0.2%)  99.66% precincts  Trump needs 68.30%  & trends  56.10%
 2020-11-11 22:55  ***  Biden up 12,813   Left (est.): 40,565   Δ:       0 (n/a)           99.53% precincts  Trump needs 66.04%  & trends  58.17%
 2020-11-11 03:20  ---  Biden up 12,813   Left (est.): 40,565   Δ:       0 (n/a)           99.53% precincts  Trump needs 66.04%  & trends  58.17%
 2020-11-11 02:08  ---  Biden up 12,813   Left (est.): 40,565   Δ:   5,195 (Trump + 7.4%)  99.46% precincts  Trump needs 66.04%  & trends  58.17%
 2020-11-11 01:49  ---  Biden up 13,582   Left (est.): 45,856   Δ:     330 (Biden +10.9%)  99.46% precincts  Trump needs 65.04%  & trends  59.60%
 2020-11-11 00:59  ---  Biden up 13,510   Left (est.): 46,198   Δ:     378 (Trump +33.6%)  99.46% precincts  Trump needs 64.85%  & trends  59.89%
 2020-11-11 00:53  ---  Biden up 13,764   Left (est.): 46,582   Δ:       2 (Trump +50.0%)  99.46% precincts  Trump needs 65.00%  & trends  59.66%
-2020-11-11 00:40  ---  Biden up 13,766   Left (est.): 46,584   Δ:   1,249 (Trump +17.9%)  99.46% precincts  Trump needs 65.00%  & trends  59.66%
+2020-11-11 00:40  ---  Biden up 13,766   Left (est.): 46,584   Δ:   1,249 (Trump +17.9%)  99.46% precincts  Trump needs 65.01%  & trends  59.66%
 2020-11-10 23:21  ---  Biden up 14,213   Left (est.): 47,874   Δ:     897 (Trump +14.2%)  99.46% precincts  Trump needs 65.07%  & trends  59.56%
 2020-11-10 21:45  ---  Biden up 14,468   Left (est.): 48,788   Δ:   6,967 (Trump + 1.9%)  99.46% precincts  Trump needs 65.06%  & trends  59.60%
 2020-11-10 21:39  ---  Biden up 14,733   Left (est.): 54,268   Δ:       0 (n/a)           99.33% precincts  Trump needs 63.79%  & trends  58.72%
@@ -343,8 +344,9 @@ North Carolina (EV: 15) Total Votes: (Trump: 2,736,881, Biden: 2,663,605)
 2020-11-04 13:28  ---  Trump up 76,737  Left (est.): 195,063  Δ:       0 (n/a)           91.02% precincts  Biden needs 69.94%  & trends  n/a
 ----------------  ---  ---------------  --------------------  -------------------------  ----------------  ------------------  ----------------
 
-Pennsylvania (EV: 20) Total Votes: (Biden: 3,379,370, Trump: 3,329,157)
+Pennsylvania (EV: 20) Total Votes: (Biden: 3,381,173, Trump: 3,329,726)
 ----------------  ---  ----------------  ----------------------  -------------------------  ----------------  -------------------  ----------------
+2020-11-11 23:15  ***  Biden up 51,447   Left (est.): 31,862     Δ:   2,372 (Biden +26.0%)  97.02% precincts  Trump needs 131.76%  & trends  39.62%
 2020-11-11 22:55  ***  Biden up 50,213   Left (est.): 34,278     Δ:       0 (n/a)           96.98% precincts  Trump needs 124.17%  & trends  41.94%
 2020-11-11 21:56  ---  Biden up 50,213   Left (est.): 34,278     Δ:       8 (Trump +12.5%)  96.98% precincts  Trump needs 124.17%  & trends  41.94%
 2020-11-11 20:25  ---  Biden up 50,215   Left (est.): 34,286     Δ:   2,029 (Biden +27.3%)  96.98% precincts  Trump needs 124.16%  & trends  41.94%
@@ -532,7 +534,7 @@ Pennsylvania (EV: 20) Total Votes: (Biden: 3,379,370, Trump: 3,329,157)
 2020-11-04 20:58  ---  Trump up 349,685  Left (est.): 898,228    Δ:   8,657 (Biden +24.0%)  82.68% precincts  Biden needs 69.71%   & trends  87.66%
 2020-11-04 20:53  ---  Trump up 353,834  Left (est.): 906,988    Δ:   5,487 (Biden +23.6%)  82.58% precincts  Biden needs 69.75%   & trends  94.34%
 2020-11-04 20:48  ---  Trump up 356,423  Left (est.): 912,515    Δ:  23,277 (Biden +50.0%)  82.50% precincts  Biden needs 69.78%   & trends  95.51%
-2020-11-04 20:37  ---  Trump up 379,700  Left (est.): 937,169    Δ:  15,329 (Biden +30.0%)  81.93% precincts  Biden needs 70.51%   & trends  80.24%
+2020-11-04 20:37  ---  Trump up 379,700  Left (est.): 937,169    Δ:  15,329 (Biden +30.0%)  81.93% precincts  Biden needs 70.52%   & trends  80.24%
 2020-11-04 20:23  ---  Trump up 388,889  Left (est.): 952,709    Δ:  16,005 (Biden +30.5%)  81.63% precincts  Biden needs 70.67%   & trends  84.55%
 2020-11-04 20:14  ---  Trump up 398,656  Left (est.): 968,923    Δ:  32,521 (Biden +39.2%)  81.32% precincts  Biden needs 70.83%   & trends  89.16%
 2020-11-04 20:10  ---  Trump up 424,125  Left (est.): 1,000,412  Δ:  28,137 (Biden +19.7%)  80.72% precincts  Biden needs 71.47%   & trends  69.99%
