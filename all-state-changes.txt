@@ -1,5 +1,5 @@
 ----------------------  ------------------------------------------------------------------------------------
-Last updated:           2020-11-11 21:41 UTC
+Last updated:           2020-11-11 21:47 UTC
 Latest batch received:  2020-11-11 20:25 UTC
 Prettier web version:   https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  ------------------------------------------------------------------------------------
@@ -2386,7 +2386,7 @@ Wisconsin (EV: 10) Total Votes: (Biden: 1,630,569, Trump: 1,610,030)
 
 Wyoming (EV: 3) Total Votes: (Trump: 193,559, Biden: 73,491)
 ----------------  ---  ----------------  ------------------  -------------------------  ----------------  --------------------  ----------------
-2020-11-11 21:14  ***  Trump up 120,068  Left (est.): 6,333  Δ:       0 (n/a)           91.93% precincts  Biden needs 1032.44%  & trends  15.41%
+2020-11-11 21:14  ---  Trump up 120,068  Left (est.): 6,333  Δ:       0 (n/a)           91.93% precincts  Biden needs 1032.44%  & trends  15.41%
 2020-11-11 20:39  ---  Trump up 120,068  Left (est.): 6,417  Δ:     141 (Trump +18.1%)  91.93% precincts  Biden needs 1019.58%  & trends  15.41%
 2020-11-11 20:34  ---  Trump up 120,017  Left (est.): 6,560  Δ:      10 (Trump +40.0%)  91.93% precincts  Biden needs 998.04%   & trends  3.16%
 2020-11-06 02:50  ---  Trump up 120,009  Left (est.): 6,570  Δ:     180 (Trump +47.2%)  91.93% precincts  Biden needs 996.54%   & trends  2.78%
