@@ -1,8 +1,8 @@
-----------------------------------  ------------------------------------------------------------------------------------
-Last updated:                       2020-11-11 02:45 UTC
-Latest batch received: (Minnesota)  2020-11-11 02:08 UTC
-Prettier web version:               https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
-----------------------------------  ------------------------------------------------------------------------------------
+-------------------------------  ------------------------------------------------------------------------------------
+Last updated:                    2020-11-11 02:51 UTC
+Latest batch received: (Alaska)  2020-11-11 02:51 UTC
+Prettier web version:            https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+-------------------------------  ------------------------------------------------------------------------------------
 
 Alabama (EV: 9) Total Votes: (Trump: 1,434,159, Biden: 843,473)
 ----------------  ---  ----------------  -------------------  ---------------------------  ----------------  --------------------  ----------------
@@ -16,11 +16,12 @@ Alabama (EV: 9) Total Votes: (Trump: 1,434,159, Biden: 843,473)
 2020-11-04 13:28  ---  Trump up 618,344  Left (est.): 22,843  Δ:       0 (n/a)             92.41% precincts  Biden needs 1422.64%  & trends  n/a
 ----------------  ---  ----------------  -------------------  ---------------------------  ----------------  --------------------  ----------------
 
-Alaska (EV: 3) Total Votes: (Trump: 118,844, Biden: 64,246)
+Alaska (EV: 3) Total Votes: (Trump: 139,264, Biden: 91,497)
 ----------------  ---  ---------------  --------------------  -------------------------  -----------------  ------------------  ----------------
-2020-11-09 19:14  ---  Trump up 54,598  Left (est.): 175,036  Δ:  18,010 (Trump + 8.9%)  100.00% precincts  Biden needs 66.27%  & trends  36.22%
-2020-11-04 18:40  ---  Trump up 51,382  Left (est.): 193,975  Δ:  38,323 (Trump +21.1%)  81.63% precincts   Biden needs 63.81%  & trends  28.94%
-2020-11-04 13:28  ---  Trump up 35,241  Left (est.): 233,531  Δ:       0 (n/a)           45.58% precincts   Biden needs 57.87%  & trends  n/a
+2020-11-11 02:51  ***  Trump up 47,767  Left (est.): 125,772  Δ:  47,671 (Biden + 7.2%)  100.00% precincts  Biden needs 69.77%  & trends  57.16%
+2020-11-09 19:14  ---  Trump up 54,598  Left (est.): 175,036  Δ:  18,010 (Trump + 8.9%)  100.00% precincts  Biden needs 66.24%  & trends  36.22%
+2020-11-04 18:40  ---  Trump up 51,382  Left (est.): 193,975  Δ:  38,323 (Trump +21.1%)  81.63% precincts   Biden needs 63.79%  & trends  28.94%
+2020-11-04 13:28  ---  Trump up 35,241  Left (est.): 233,531  Δ:       0 (n/a)           45.58% precincts   Biden needs 57.85%  & trends  n/a
 ----------------  ---  ---------------  --------------------  -------------------------  -----------------  ------------------  ----------------
 
 Arizona (EV: 11) Total Votes: (Biden: 1,655,192, Trump: 1,642,379)
@@ -1332,7 +1333,7 @@ Minnesota (EV: 10) Total Votes: (Biden: 1,718,725, Trump: 1,485,323)
 
 Mississippi (EV: 6) Total Votes: (Trump: 688,745, Biden: 452,795)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  -------------------  ----------------
-2020-11-11 02:19  ***  Trump up 235,950  Left (est.): 61,254   Δ: Unknown (Trump +16.2%)  97.90% precincts  Biden needs 245.61%  & trends  52.82%
+2020-11-11 02:19  ---  Trump up 235,950  Left (est.): 61,254   Δ: Unknown (Trump +16.2%)  97.90% precincts  Biden needs 245.61%  & trends  52.82%
 2020-11-09 16:48  ---  Trump up 237,272  Left (est.): 57,124   Δ:   1,547 (Biden +11.1%)  97.90% precincts  Biden needs 260.92%  & trends  50.17%
 2020-11-09 16:14  ---  Trump up 237,615  Left (est.): 58,673   Δ:   3,264 (Biden +25.3%)  97.90% precincts  Biden needs 255.65%  & trends  49.77%
 2020-11-09 15:44  ---  Trump up 239,267  Left (est.): 61,960   Δ:   4,468 (Trump +19.2%)  97.90% precincts  Biden needs 246.10%  & trends  47.10%
