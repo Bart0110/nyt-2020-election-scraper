@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 11 Nov 2020 00:59:20 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2020 01:49:21 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +54598</description>
    <pubDate>Mon, 09 Nov 2020 19:14:19 -0000</pubDate>
@@ -21,9 +21,9 @@
    <guid isPermaLink="false">arkansas@1605045101.038</guid>
   </item>
   <item>
-   <description>Arizona (EV: 11): Biden +13510</description>
-   <pubDate>Wed, 11 Nov 2020 00:59:20 -0000</pubDate>
-   <guid isPermaLink="false">arizona@1605056360.885</guid>
+   <description>Arizona (EV: 11): Biden +13582</description>
+   <pubDate>Wed, 11 Nov 2020 01:49:21 -0000</pubDate>
+   <guid isPermaLink="false">arizona@1605059361.953</guid>
   </item>
   <item>
    <description>California (EV: 55): Biden +4730457</description>
@@ -121,9 +121,9 @@
    <guid isPermaLink="false">michigan@1605046681.703</guid>
   </item>
   <item>
-   <description>Minnesota (EV: 10): Biden +233405</description>
-   <pubDate>Wed, 11 Nov 2020 00:53:02 -0000</pubDate>
-   <guid isPermaLink="false">minnesota@1605055982.36</guid>
+   <description>Minnesota (EV: 10): Biden +233402</description>
+   <pubDate>Wed, 11 Nov 2020 01:49:21 -0000</pubDate>
+   <guid isPermaLink="false">minnesota@1605059361.953</guid>
   </item>
   <item>
    <description>Missouri (EV: 10): Trump +468997</description>
