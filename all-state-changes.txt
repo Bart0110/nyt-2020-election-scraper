@@ -1,8 +1,8 @@
-----------------------  ------------------------------------------------------------------------------------
-Last updated:           2020-11-12 21:22 UTC
-Latest batch received:  2020-11-12 21:00 UTC
-Prettier web version:   https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
-----------------------  ------------------------------------------------------------------------------------
+------------------------------------------  ------------------------------------------------------------------------------------
+Last updated:                               2020-11-12 21:28 UTC
+Latest batch received: (Arizona, Maryland)  2020-11-12 21:26 UTC
+Prettier web version:                       https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+------------------------------------------  ------------------------------------------------------------------------------------
 
 Alabama (EV: 9) Total Votes: (Trump: 1,434,159, Biden: 843,473)
 ----------------  ---  ----------------  -------------------  ---------------------------  ----------------  --------------------  ----------------
@@ -29,8 +29,9 @@ Alaska (EV: 3) Total Votes: (Trump: 160,193, Biden: 115,543)
 2020-11-04 13:28  ---  Trump up 35,241  Left (est.): 233,531  Δ:       0 (n/a)           45.58% precincts   Biden needs 57.85%  & trends  n/a
 ----------------  ---  ---------------  --------------------  -------------------------  -----------------  ------------------  ----------------
 
-Arizona (EV: 11) Total Votes: (Biden: 1,663,460, Trump: 1,651,923)
+Arizona (EV: 11) Total Votes: (Biden: 1,663,460, Trump: 1,651,924)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  ------------------  ----------------
+2020-11-12 21:26  ***  Biden up 11,536   Left (est.): 22,296   Δ:       1 (Trump +50.0%)  99.66% precincts  Trump needs 76.27%  & trends  55.15%
 2020-11-12 17:27  ---  Biden up 11,537   Left (est.): 22,297   Δ:     124 (Trump +39.5%)  99.66% precincts  Trump needs 76.27%  & trends  55.15%
 2020-11-12 03:20  ---  Biden up 11,635   Left (est.): 22,424   Δ:  12,845 (Trump + 4.6%)  99.66% precincts  Trump needs 76.35%  & trends  54.99%
 2020-11-11 23:15  ---  Biden up 12,828   Left (est.): 35,567   Δ:   4,843 (Biden + 0.2%)  99.66% precincts  Trump needs 68.31%  & trends  56.10%
@@ -1028,10 +1029,11 @@ Maine (EV: 4) Total Votes: (Biden: 420,357, Trump: 341,949)
 2020-11-04 13:28  ---  Biden up 77,489  Left (est.): 239,598  Δ:       0 (n/a)           54.89% precincts  Trump needs 66.68%   & trends  n/a
 ----------------  ---  ---------------  --------------------  -------------------------  ----------------  -------------------  ----------------
 
-Maryland (EV: 10) Total Votes: (Biden: 1,771,555, Trump: 918,895)
+Maryland (EV: 10) Total Votes: (Biden: 1,772,054, Trump: 919,467)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  -------------------  ----------------
+2020-11-12 21:26  ***  Biden up 852,587  Left (est.): 258,510  Δ:   1,071 (Trump + 3.4%)  87.87% precincts  Trump needs 218.11%  & trends  29.29%
 2020-11-12 21:15  ***  Biden up 852,660  Left (est.): 259,596  Δ:     449 (Biden +27.3%)  87.82% precincts  Trump needs 217.42%  & trends  28.10%
-2020-11-12 20:22  ---  Biden up 852,415  Left (est.): 260,069  Δ:   2,082 (Trump + 2.8%)  87.82% precincts  Trump needs 217.07%  & trends  28.05%
+2020-11-12 20:22  ---  Biden up 852,415  Left (est.): 260,069  Δ:   2,082 (Trump + 2.8%)  87.82% precincts  Trump needs 217.06%  & trends  28.05%
 2020-11-12 19:35  ---  Biden up 852,531  Left (est.): 262,194  Δ:     695 (Biden +21.8%)  87.77% precincts  Trump needs 215.73%  & trends  25.77%
 2020-11-12 19:21  ---  Biden up 852,228  Left (est.): 262,894  Δ:   4,460 (Biden + 5.1%)  87.72% precincts  Trump needs 215.23%  & trends  25.57%
 2020-11-12 18:50  ---  Biden up 851,770  Left (est.): 267,469  Δ:     555 (Trump +21.9%)  87.62% precincts  Trump needs 212.32%  & trends  21.85%
