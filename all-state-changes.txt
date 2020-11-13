@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------  ------------------------------------------------------------------------------------
-Last updated:                                                                          2020-11-13 23:13 UTC
+Last updated:                                                                          2020-11-13 23:19 UTC
 Latest batch received: (Arkansas, California, Colorado, New Jersey, Utah, Washington)  2020-11-13 21:53 UTC
 Prettier web version:                                                                  https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 -------------------------------------------------------------------------------------  ------------------------------------------------------------------------------------
@@ -238,7 +238,7 @@ California (EV: 55) Total Votes: (Biden: 10,443,145, Trump: 5,521,319)
 Colorado (EV: 9) Total Votes: (Biden: 1,791,092, Trump: 1,357,097)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  ---------------------  ----------------
 2020-11-13 23:11  ***  Biden up 433,995  Unknown               Δ:  11,988 (Trump + 5.9%)  97.19% precincts  Unknown                & trends  43.99%
-2020-11-13 22:47  ***  Biden up 435,411  Unknown               Δ:   1,744 (Trump + 5.1%)  96.95% precincts  Unknown                & trends  33.22%
+2020-11-13 22:47  ---  Biden up 435,411  Unknown               Δ:   1,744 (Trump + 5.1%)  96.95% precincts  Unknown                & trends  33.22%
 2020-11-13 22:32  ---  Biden up 435,589  Left (est.): 1,752    Δ:      68 (Trump +13.2%)  96.92% precincts  Trump needs 12825.28%  & trends  31.70%
 2020-11-13 22:19  ---  Biden up 435,607  Left (est.): 1,825    Δ:   1,037 (Biden + 7.6%)  96.92% precincts  Trump needs 12314.78%  & trends  31.62%
 2020-11-13 21:53  ---  Biden up 435,450  Left (est.): 2,906    Δ:     590 (Trump + 9.0%)  96.92% precincts  Trump needs 7749.64%   & trends  31.16%
