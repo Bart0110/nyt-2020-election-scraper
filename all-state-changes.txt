@@ -1,5 +1,5 @@
 ----------------------  ------------------------------------------------------------------------------------
-Last updated:           2020-11-14 23:43 UTC
+Last updated:           2020-11-14 23:49 UTC
 Latest batch received:  2020-11-14 22:18 UTC
 Prettier web version:   https://Bart0110.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  ------------------------------------------------------------------------------------
@@ -1540,7 +1540,7 @@ Minnesota (EV: 10) Total Votes: (Biden: 1,718,739, Trump: 1,485,345)
 
 Mississippi (EV: 6) Total Votes: (Trump: 723,851, Biden: 484,240)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  -------------------  ----------------
-2020-11-14 23:16  ***  Trump up 239,611  Left (est.): 40,488   Δ:     182 (Trump + 7.7%)  98.47% precincts  Biden needs 350.39%  & trends  39.92%
+2020-11-14 23:16  ---  Trump up 239,611  Left (est.): 40,488   Δ:     182 (Trump + 7.7%)  98.47% precincts  Biden needs 350.39%  & trends  39.92%
 2020-11-14 22:40  ---  Trump up 239,583  Left (est.): 40,670   Δ:     121 (Trump +41.7%)  98.07% precincts  Biden needs 349.01%  & trends  40.22%
 2020-11-14 22:36  ---  Trump up 239,482  Left (est.): 40,794   Δ:      33 (Trump +37.9%)  98.07% precincts  Biden needs 347.97%  & trends  40.55%
 2020-11-14 22:30  ---  Trump up 239,457  Left (est.): 40,827   Δ:   3,757 (Biden +11.7%)  98.02% precincts  Biden needs 347.70%  & trends  40.64%
